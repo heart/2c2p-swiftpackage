@@ -1,5 +1,7 @@
 # 2C2P-iOS
 
+## This repository I have copied from https://github.com/kingpowerclick/2C2P-iOS but I download PGW_SDK_iOS_v4.4.1 from 2c2p directly for security reasons
+
 Unofficial Swift Package Manager supported for [2C2P iOS SDK](https://developer.2c2p.com/docs)
 
 ## Installation
